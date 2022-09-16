@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace BATCH1_DET_2022
 {
+    
+   
     internal class ScienceStudent : Student
     {
         public int physics { get; set; }

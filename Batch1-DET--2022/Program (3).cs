@@ -1,8 +1,9 @@
 ﻿//using ConsoleAppDemo;
+using ConsoleAppDemo;
 using Exampleoops;
 
 
-class MyClass
+class   NewClass
 {
     enum Grade { Pass = 60, Distinction = 85 };
     /// <summary>
